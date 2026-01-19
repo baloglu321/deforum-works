@@ -420,15 +420,4 @@ Generated content subject to:
 **Last Updated**: January 2026  
 **Status**: 🟢 Active - Animation Experiments
 
-## 🚀 Getting Started Checklist
 
-- [ ] Choose notebook (Deforum for quick, WarpFusion for quality)
-- [ ] Set up Google Colab or local environment
-- [ ] Install all dependencies
-- [ ] Start with example parameters
-- [ ] Generate short test (30-60 frames)
-- [ ] Iterate and refine
-- [ ] Scale up to full animation
-- [ ] Export and share your creation!
-
-Happy animating! 🎨✨
